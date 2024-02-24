@@ -18,7 +18,7 @@ header {
   width: 100%;
   max-width: auto;
   height: 700px;
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 10) 0, rgba(0, 0, 0, 0.3) 60%, rgba(0, 0, 0, 10) 100%), url(/bg.webp);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 10) 0, rgba(0, 0, 0, 0.3) 60%, rgba(0, 0, 0, 10) 100%), url(./bg.jpg);
   background-position: bottom;
   /* background-repeat: no-repeat; */
   /* background-size: 100vw; */
